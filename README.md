@@ -1,7 +1,7 @@
 # up221_amilh
-amil hogan
+Amil hogan
 
-she/her/hers
+She/her/hers
 
 2nd year Public Policy Student
 
@@ -17,3 +17,9 @@ We begin with an introduction to various data science tools, and review the basi
 In addition to the programming lab sessions, you will be given weekly or bi-weekly "thinking cap" assignments, where you will be asked to think critically about contemporary urban issues. Be prepared to address various topics from the perspective of your own lived experiences, how it informs the topic, and what kind of research can advance knowledge in a positive way.
 
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
+
+Project Ideas:
+Some Ideas that I have are to map jail facilities alongside demographic data, healthcare availability, and reported incidents of inmate deaths. This analysis will help identify patterns such as geographic disparities, correlations with under-resourced facilities, and populations most at risk. Data sources include government reports, nonprofit datasets (e.g., Prison Policy Initiative), and public health records. The goal is to propose evidence-based policy recommendations to reduce deaths in custody and address systemic inequities in incarceration practices."
+
+Objectives:
+To effectively be able to use spatial data science within my research
